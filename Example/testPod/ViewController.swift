@@ -7,11 +7,12 @@
 //
 
 import UIKit
-
+import testPod
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        testSons().printLog()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
