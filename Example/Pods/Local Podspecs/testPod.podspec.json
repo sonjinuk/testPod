@@ -1,0 +1,22 @@
+{
+  "name": "testPod",
+  "version": "0.1.0",
+  "summary": "A short description of testPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sonjinuk/testPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sonjinuk": "supersons@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/sonjinuk/testPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "testPod/Classes/**/*"
+}
