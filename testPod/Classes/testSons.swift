@@ -11,6 +11,6 @@ public class testSons{
           
     }
     public func printLog(){
-        print("log")
+        print("log111")
     }
 }
